@@ -1,0 +1,19 @@
+﻿  Config.cpp
+  Display.cpp
+  main.cpp
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\stdafx.h(12,1): warning C4005: '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES': macro redefinition
+  (compiling source file 'main.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt.h(547,1):
+  see previous definition of '_CRT_SECURE_CPP_OVERLOAD_STANDARD_NAMES'
+  
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(352,19): warning C4477: 'wprintf_s' : format string '%lo' requires an argument of type 'unsigned long', but variadic argument 1 has type 'UCHAR *'
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(353,19): warning C4477: 'wprintf_s' : format string '%lo' requires an argument of type 'unsigned long', but variadic argument 1 has type 'GUID'
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(355,19): warning C4477: 'wprintf_s' : format string '%lo' requires an argument of type 'unsigned long', but variadic argument 1 has type 'UCHAR *'
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(448,15): warning C4477: 'wprintf_s' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'UCHAR *'
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(450,15): warning C4477: 'wprintf_s' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'UCHAR *'
+C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\main.cpp(451,15): warning C4477: 'wprintf_s' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'GUID'
+  PrivatePoolEnroll.cpp
+  PrivatePoolIdentify.cpp
+  PrivatePoolSetup.cpp
+  Generating Code...
+  FingerPrint.vcxproj -> C:\Users\abc\Downloads\fringerprint\Windows-Biometric-Framework-FingerPrint-Example-master\Debug\FingerPrint.exe
